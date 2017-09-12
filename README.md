@@ -11,6 +11,6 @@ My M.A. thesis 'Ignazio Silone e Carlo Levi: il mondo e ancora paese or Ignazio 
 ## My objectives of the course
 
 1. Familiarize with the term and practices of the digital humanities
-2. Continue expanding my interdisciplinary research interest
+2. Continue expanding my interdisciplinary research interests
 3. Continue thinking 'outside the box', continue openning up to untraditional ways of thinking and researching
 4. Be able to use some of the knowledge I will acquire in this course both in my research and research presentation
