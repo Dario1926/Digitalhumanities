@@ -1,5 +1,4 @@
-
-![screenshotGephi] ![gephi_screenshot](https://user-images.githubusercontent.com/31863135/31300600-8f8ac362-aac2-11e7-8e09-cf2376fa0f9b.jpg)
+![gephi_screenshot](https://user-images.githubusercontent.com/31863135/31300600-8f8ac362-aac2-11e7-8e09-cf2376fa0f9b.jpg)
 
 
 
