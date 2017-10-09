@@ -10,11 +10,11 @@ My screenhot
 * Source URL: https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
 * Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 * Creator and Affiliation: Vassilis Routsis (Center for Digital Humanities, University College London), Eirini Goudarouli (The National Archives, United Kingdom) and Manolis Patiniotis (National and Kapodistrian University of Athens)
-* Tags: Mapping, Intellectual networks, Enlightenment, History, borderless knowledgestract 
+* Tags: Mapping, Intellectual networks, Enlightenment, History, Borderless knowledge 
 
 This abstract/ project uses innovative mapping tools to present and elaborate networks resulting from ongoing research at the intersection of the history of ideas and movement of intellectuals in a given period. Appropriating historians’ ‘moving localities’ which considers what moves with an individual, the project demonstrates how the Enlightenment benefitted from a borderless process of knowledge formation.
 
-Focussing on Greek speaking intellectual's mobility in the Ottoman Empire during the 17th-18th century and the resulting contribution to knowledge formation also supports a reconsideration of the relationship between center and periphery. The scope of this intellectual network and scholars hopes to encourage and aid historians with a just inclusion of such intellectuals in histories of the Enlightenment’s knowledge formation process. From a technical standpoint the project does not aim to be ‘concluded’ definitely, but to leave an expandable resource open to the contribution of future scholars.
+Focussing on Greek speaking intellectuals' mobility in the Ottoman Empire during the 17th-18th century and the resulting contribution to knowledge formation also supports a reconsideration of the relationship between center and periphery. The scope of this intellectual network and scholars hopes to encourage and aid historians with a just inclusion of such intellectuals in histories of the Enlightenment’s knowledge formation process. From a technical standpoint the project does not aim to be ‘concluded’ definitely but to leave an expandable resource open to the contribution of future scholars.
 
 ### "Digital Access as an Equity Issue: The Community College and the Digital Divide"
 
@@ -28,11 +28,7 @@ My screenhot
 * Creator and Affiliation: Polly Ruth Hoover (Wright College)
 * Tags: Digital Divide, Digital access, Equal rights, Education, Inequality
 
-Considering Danah Boyd’s argument regarding the problematic assumption that age sanctions an individual’s technological expertise, Hoover underlines the access limitations which can do so. Digital innovation has not been able to bypass the social divisions imposed by wealth and this demonstrates that limitations of access are not necessarily related to knowledge of such tools.
-
-Hoover also reports on the consolidation of the resulting ‘digital divide’ due to the diverse length and available resources between community colleges and four year institutional programs. As Hoover notes, while some students eventually join four year institutional programs gaining equal accessibility, the ‘score’ is not settled for students of different ages who are limited to the community college. 
-
-Focussing on the ‘digital divide’ identified at the community college level, Hoover proposes ways to address the issues at hand.
+Considering Danah Boyd’s argument regarding the problematic assumption that age sanctions an individual’s technological expertise, Hoover underlines the access limitations which can do so. Digital innovation has not been able to bypass the social divisions imposed by wealth and this demonstrates that limitations of access are not necessarily related to knowledge of such tools. Hoover also reports on the consolidation of the resulting ‘digital divide’ due to the diverse length and available resources between community colleges and four year institutional programs. As Hoover notes, while some students eventually join four year institutional programs gaining equal accessibility, the ‘score’ is not settled for students of different ages who are limited to the community college. Focussing on the ‘digital divide’ identified at the community college level, Hoover proposes ways to address the issues at hand.
 
 ### Gephi
 
@@ -43,7 +39,7 @@ My screenhot
 * Artifact Type: online graphing tool
 * Source URL: https://gephi.org/
 * Permissions: “Gephi is open-source and free” (gehi.org) while “The majority of the Gephi Plateform [*sic*] code is available under the dual license CDDL 1.0 and GNU General Public License (GPL) v3” (gephi.org/legal/).
-* Creator and Affiliation: Chief Technology Officer Mathieu Bastian and a team of developpers and contributors (gephi.org) 
+* Creator and Affiliation: Mathieu Bastian (Chief Technology Officer) and a team of developpers and contributors (gephi.org) 
 * Tags: Creative, Visual, Mapping, Relationships, Data, Discovered tool
 
 Gephi is an open-source graphing and networking platform. The software is easily downloadable online at no cost to the user and is operable on Windows, Mac OS X and Linux systems. 
@@ -55,8 +51,8 @@ The “Features” page of gephi.org describes the software’s capacities combi
 
 1. De Palma, Dario. “Screenshot of ‘Digital Access as an Equity Issue: The Community College and the Digital Divide’” *dh2017.adho.org*, dh2017.adho.org/abstracts/DH2017-abstracts.pdf, pp. 567-569. Accessed 9 Oct. 2017.
 2. ---. “Screenshot of ‘Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in the European Periphery’”. *dh2017.adho.org*, dh2017.adho.org/abstracts/DH2017-abstracts.pdf, pp. 567-569, Accessed 9 Oct. 2017.
-3. ---. “Screenshot of Gephi.org” *Gephi*, gephi.org. Accessed 9 Oct. 2017.
-4. *Gephi*. Gephi.org, Accessed 9 Oct. 2017.
+3. ---. “Screenshot of 'Gephi.org'” *Gephi*, gephi.org. Accessed 7 Oct. 2017.
+4. *Gephi*. Gephi.org, Accessed 7 Oct. 2017.
 5. Hoover, Polly Ruth. "Digital Access as an Equity Issue: The Community College and the Digital Divide." Lewis and DH2017 Local Organizers, pp. 475-476.
 6. Lewis, Rhian and DH2017 Local Organizers, editors. *Digital Humanities 2017*, August 8 - 11 2017, Montreal, *dh2017.adho.org*, 2017, dh2017.adho.org/abstracts/DH2017-abstracts.pdf. Accessed 9 Oct. 2017.
 7. Routsis, Vassilis, et al. "Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in the European Periphery." Lewis and DH2017 Local Organizers, pp. 567-569.
