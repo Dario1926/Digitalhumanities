@@ -6,7 +6,7 @@ My screenhot
 ![screenshot-mapping](https://user-images.githubusercontent.com/31863135/31352230-00129d04-acfc-11e7-80f4-e02c02e849de.jpg)
 (“Screenshot of ‘Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in the European Periphery’”)
 
-* Artifact Type: conference abstract
+* Artefact Type: conference abstract
 * Source URL: https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
 * Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 * Creator and Affiliation: Vassilis Routsis (Center for Digital Humanities, University College London), Eirini Goudarouli (The National Archives, United Kingdom) and Manolis Patiniotis (National and Kapodistrian University of Athens)
@@ -22,7 +22,7 @@ My screenhot
 ![screenshot-digitaldivide](https://user-images.githubusercontent.com/31863135/31352237-058a0150-acfc-11e7-9312-40cc7d6437d5.jpg)
 (“Screenshot of ‘Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in the European Periphery’”)
 
-* Artifact Type: conference abstract
+* Artefact Type: conference abstract
 * Source URL: https://dh2017.adho.org/abstracts/DH2017-abstracts.pdf
 * Permissions: Creative Commons-Attribution 4.0 (CC-BY 4.0)
 * Creator and Affiliation: Polly Ruth Hoover (Wright College)
@@ -36,7 +36,7 @@ My screenhot
 ![gephi_screenshot](https://user-images.githubusercontent.com/31863135/31300600-8f8ac362-aac2-11e7-8e09-cf2376fa0f9b.jpg)
 (“Screenshot of Gephi.org”)
 
-* Artifact Type: online graphing tool
+* Artefact Type: online graphing tool
 * Source URL: https://gephi.org/
 * Permissions: “Gephi is open-source and free” (gehi.org) while “The majority of the Gephi Plateform [*sic*] code is available under the dual license CDDL 1.0 and GNU General Public License (GPL) v3” (gephi.org/legal/).
 * Creator and Affiliation: Mathieu Bastian (Chief Technology Officer) and a team of developpers and contributors (gephi.org) 
